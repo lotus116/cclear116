@@ -1,1 +1,12 @@
-[]
+[
+	{
+		"name": "DeepInsight",
+		"year": 2026,
+		"image": "blob:https://cclear116.vercel.app/aca31ce5-9ba3-400a-93ac-a83332f3113b",
+		"url": " https://github.com/lotus116/DeepInsight-OpenVINO",
+		"description": "基于Agent和Text2SQL的自然语言智能经营决策系统",
+		"tags": [
+			"https://github.com/lotus116/DeepInsight-OpenVINO"
+		]
+	}
+]
